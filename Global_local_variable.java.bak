@@ -1,0 +1,7 @@
+class  Global_local_variable
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}
